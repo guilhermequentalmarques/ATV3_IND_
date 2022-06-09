@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+}
+#header{
+    position: absolute;
+    width: 600px;
+    height: 163px;
+    left: 0px;
+    top: 0px;
+    background: url(header.jpg);
+}
+#receba{
+    position: absolute;
+    width: 439px;
+    height: 68px;
+    left: 60px;
+    top: 250px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #00A857;
+}
+#oi{
+    position: absolute;
+    width: 89px;
+    height: 23px;
+    left: 60px;
+    top: 360px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height, or 128% */
+    color: #FFFFFF;
+    background-color: black;
+}
+#A{
+    position: absolute;
+    width: 453px;
+    height: 71px;
+    left: 60px;
+    top: 410px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+#carteira{
+    position: absolute;
+    width: 317px;
+    height: 23px;
+    left: 20px;
+    top: 522px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
